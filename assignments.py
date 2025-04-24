@@ -1,8 +1,7 @@
 #Task-1
 '''
-a=float(a)
-b=input('b: ')
-b=float(b)
+a=int(input('a: '))
+b=int(input('b: '))
 c=a+b
 print('a+b= ',c)
 d=a*b
